@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/anugrah-shukla/my-portfolio/static/css/main.ae752b93.chunk.css",
+    "main.js": "/anugrah-shukla/my-portfolio/static/js/main.c0b7b2c3.chunk.js",
+    "main.js.map": "/anugrah-shukla/my-portfolio/static/js/main.c0b7b2c3.chunk.js.map",
+    "runtime-main.js": "/anugrah-shukla/my-portfolio/static/js/runtime-main.dd851f0d.js",
+    "runtime-main.js.map": "/anugrah-shukla/my-portfolio/static/js/runtime-main.dd851f0d.js.map",
+    "static/js/2.8e81d042.chunk.js": "/anugrah-shukla/my-portfolio/static/js/2.8e81d042.chunk.js",
+    "static/js/2.8e81d042.chunk.js.map": "/anugrah-shukla/my-portfolio/static/js/2.8e81d042.chunk.js.map",
+    "index.html": "/anugrah-shukla/my-portfolio/index.html",
+    "precache-manifest.664bb7d4ad77dbcdeb64f69b7f238389.js": "/anugrah-shukla/my-portfolio/precache-manifest.664bb7d4ad77dbcdeb64f69b7f238389.js",
+    "service-worker.js": "/anugrah-shukla/my-portfolio/service-worker.js",
+    "static/css/main.ae752b93.chunk.css.map": "/anugrah-shukla/my-portfolio/static/css/main.ae752b93.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd851f0d.js",
+    "static/js/2.8e81d042.chunk.js",
+    "static/css/main.ae752b93.chunk.css",
+    "static/js/main.c0b7b2c3.chunk.js"
+  ]
+}
